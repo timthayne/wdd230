@@ -1,0 +1,22 @@
+/* html selector */
+h1 {
+  color: red;
+}
+
+footer {
+  background-color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+/* id selectors */
+#name {
+  color: blue;
+}
